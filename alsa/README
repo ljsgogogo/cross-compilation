@@ -1,0 +1,9 @@
+1.编译ncuress
+
+2.ubuntu18.04的服务器由于automake-1.15，需要编译automake-1.16
+
+3.编译alsa-lib
+
+4.编译alsa-ultis
+中间报错需修改makefile  --> make install
+

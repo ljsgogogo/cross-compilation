@@ -1,0 +1,293 @@
+decoder.lo: decoder.c \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/stdc-predef.h \
+ ../../include/list.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/lib/gcc/aarch64-linux-gnu/10.3.0/include/stddef.h \
+ tplg_local.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/lib/gcc/aarch64-linux-gnu/10.3.0/include-fixed/limits.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/lib/gcc/aarch64-linux-gnu/10.3.0/include-fixed/syslimits.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/limits.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/libc-header-start.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/features.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/features-time64.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/wordsize.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/timesize.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/sys/cdefs.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/long-double.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/gnu/stubs.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/gnu/stubs-lp64.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/posix1_lim.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/local_lim.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/linux/limits.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/pthread_stack_min-dynamic.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/pthread_stack_min.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/posix2_lim.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/lib/gcc/aarch64-linux-gnu/10.3.0/include/stdint.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/stdint.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/typesizes.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/time64.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/wchar.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/stdint-intn.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/stdint-uintn.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/lib/gcc/aarch64-linux-gnu/10.3.0/include/stdbool.h \
+ ../../include/local.h ../../include/config.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/unistd.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/posix_opt.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/environments.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/confname.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/getopt_posix.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/getopt_core.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/lib/gcc/aarch64-linux-gnu/10.3.0/include-fixed/bits/unistd_ext.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/stdio.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/lib/gcc/aarch64-linux-gnu/10.3.0/include/stdarg.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/__fpos_t.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/__mbstate_t.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/__fpos64_t.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/__FILE.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/FILE.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/struct_FILE.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/stdio_lim.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/floatn.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/floatn-common.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/stdio.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/stdlib.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/waitflags.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/waitstatus.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/sys/types.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/clock_t.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/clockid_t.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/time_t.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/timer_t.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/endian.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/endian.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/endianness.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/byteswap.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/uintn-identity.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/sys/select.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/select.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/sigset_t.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/__sigset_t.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/struct_timeval.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/struct_timespec.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/pthreadtypes.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/thread-shared-types.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/pthreadtypes-arch.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/struct_mutex.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/struct_rwlock.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/alloca.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/stdlib-bsearch.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/stdlib-float.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/string.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/locale_t.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/__locale_t.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/strings.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/fcntl.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/fcntl.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/fcntl-linux.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/stat.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/struct_stat.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/assert.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/poll.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/sys/poll.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/poll.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/errno.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/errno.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/linux/errno.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm/errno.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm-generic/errno.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm-generic/errno-base.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/linux/types.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm/types.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm-generic/types.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm-generic/int-ll64.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm/bitsperlong.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm-generic/bitsperlong.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/linux/posix_types.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/linux/stddef.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm/posix_types.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm-generic/posix_types.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/linux/ioctl.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm/ioctl.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm-generic/ioctl.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/dlfcn.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/dlfcn.h \
+ ../../include/sound/asound.h ../../include/alsa/sound/type_compat.h \
+ ../../include/alsa/sound/uapi/asound.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm/byteorder.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/linux/byteorder/little_endian.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/linux/swab.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm/swab.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm-generic/swab.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/time.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/time.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/struct_tm.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/struct_itimerspec.h \
+ ../../include/asoundef.h ../../include/alsa-symbols.h \
+ ../../include/version.h ../../include/global.h ../../include/input.h \
+ ../../include/output.h ../../include/error.h ../../include/conf.h \
+ ../../include/pcm.h ../../include/pcm_plugin.h ../../include/rawmidi.h \
+ ../../include/timer.h ../../include/hwdep.h ../../include/control.h \
+ ../../include/mixer.h ../../include/seq_event.h ../../include/seq.h \
+ ../../include/sound/asequencer.h \
+ ../../include/alsa/sound/uapi/asequencer.h ../../include/seqmid.h \
+ ../../include/seq_midi_event.h ../../include/list.h \
+ ../../include/bswap.h \
+ /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/byteswap.h \
+ ../../include/topology.h ../../include/sound/type_compat.h \
+ ../../include/sound/asoc.h ../../include/alsa/sound/uapi/asoc.h \
+ ../../include/sound/tlv.h ../../include/alsa/sound/uapi/tlv.h
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/stdc-predef.h:
+../../include/list.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/lib/gcc/aarch64-linux-gnu/10.3.0/include/stddef.h:
+tplg_local.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/lib/gcc/aarch64-linux-gnu/10.3.0/include-fixed/limits.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/lib/gcc/aarch64-linux-gnu/10.3.0/include-fixed/syslimits.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/limits.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/libc-header-start.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/features.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/features-time64.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/wordsize.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/timesize.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/sys/cdefs.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/long-double.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/gnu/stubs.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/gnu/stubs-lp64.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/posix1_lim.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/local_lim.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/linux/limits.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/pthread_stack_min-dynamic.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/pthread_stack_min.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/posix2_lim.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/lib/gcc/aarch64-linux-gnu/10.3.0/include/stdint.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/stdint.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/typesizes.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/time64.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/wchar.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/stdint-intn.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/stdint-uintn.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/lib/gcc/aarch64-linux-gnu/10.3.0/include/stdbool.h:
+../../include/local.h:
+../../include/config.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/unistd.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/posix_opt.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/environments.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/confname.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/getopt_posix.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/getopt_core.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/lib/gcc/aarch64-linux-gnu/10.3.0/include-fixed/bits/unistd_ext.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/stdio.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/lib/gcc/aarch64-linux-gnu/10.3.0/include/stdarg.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/__fpos_t.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/__mbstate_t.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/__fpos64_t.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/__FILE.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/FILE.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/struct_FILE.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/stdio_lim.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/floatn.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/floatn-common.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/stdio.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/stdlib.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/waitflags.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/waitstatus.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/sys/types.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/clock_t.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/clockid_t.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/time_t.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/timer_t.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/endian.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/endian.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/endianness.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/byteswap.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/uintn-identity.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/sys/select.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/select.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/sigset_t.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/__sigset_t.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/struct_timeval.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/struct_timespec.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/pthreadtypes.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/thread-shared-types.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/pthreadtypes-arch.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/struct_mutex.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/struct_rwlock.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/alloca.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/stdlib-bsearch.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/stdlib-float.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/string.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/locale_t.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/__locale_t.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/strings.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/fcntl.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/fcntl.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/fcntl-linux.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/stat.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/struct_stat.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/assert.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/poll.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/sys/poll.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/poll.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/errno.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/errno.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/linux/errno.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm/errno.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm-generic/errno.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm-generic/errno-base.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/linux/types.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm/types.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm-generic/types.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm-generic/int-ll64.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm/bitsperlong.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm-generic/bitsperlong.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/linux/posix_types.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/linux/stddef.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm/posix_types.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm-generic/posix_types.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/linux/ioctl.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm/ioctl.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm-generic/ioctl.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/dlfcn.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/dlfcn.h:
+../../include/sound/asound.h:
+../../include/alsa/sound/type_compat.h:
+../../include/alsa/sound/uapi/asound.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm/byteorder.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/linux/byteorder/little_endian.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/linux/swab.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm/swab.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/asm-generic/swab.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/time.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/time.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/struct_tm.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/bits/types/struct_itimerspec.h:
+../../include/asoundef.h:
+../../include/alsa-symbols.h:
+../../include/version.h:
+../../include/global.h:
+../../include/input.h:
+../../include/output.h:
+../../include/error.h:
+../../include/conf.h:
+../../include/pcm.h:
+../../include/pcm_plugin.h:
+../../include/rawmidi.h:
+../../include/timer.h:
+../../include/hwdep.h:
+../../include/control.h:
+../../include/mixer.h:
+../../include/seq_event.h:
+../../include/seq.h:
+../../include/sound/asequencer.h:
+../../include/alsa/sound/uapi/asequencer.h:
+../../include/seqmid.h:
+../../include/seq_midi_event.h:
+../../include/list.h:
+../../include/bswap.h:
+/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/byteswap.h:
+../../include/topology.h:
+../../include/sound/type_compat.h:
+../../include/sound/asoc.h:
+../../include/alsa/sound/uapi/asoc.h:
+../../include/sound/tlv.h:
+../../include/alsa/sound/uapi/tlv.h:
