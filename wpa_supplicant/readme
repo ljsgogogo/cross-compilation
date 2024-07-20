@@ -1,0 +1,11 @@
+1. 编译libnl-3.5.0
+
+
+2.编译openssl
+
+
+3.编译 wap_supplicant
+
+需要修改makefile，将编译出的openssl和 libnl 的库和头文件路径添加上
+
+
