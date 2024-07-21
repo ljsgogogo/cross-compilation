@@ -1,3 +1,0 @@
-control_symbols.lo: control_symbols.c \
- /home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/stdc-predef.h
-/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/target/usr/include/stdc-predef.h:
