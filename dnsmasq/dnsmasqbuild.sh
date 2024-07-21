@@ -7,23 +7,17 @@
 #LDFLAGS=
 #start-stop-daemon -S -q -p /var/run/ntpd.pid -x "/bin/ntpd" -g -p /var/run/ntpd.pid
 #start-stop-daemon -S -q -m -p /var/run/ntpd.pid -x /usr/sbin/ntpd -g daemon
-
-
-export PATH=/home/rpdzkj/sixth/ljswork/hisi/hi351xdv500/cross-compile/aarch64-v01c01-linux-gnu-gcc/bin:$PATH
-export CC=aarch64-linux-gnu-gcc
-export CXX=aarch64-linux-gnu-g++
-export AR=aarch64-linux-gnu-ar
-export RANLIB=aarch64-linux-gnu-ranlib
-export STRIP=aarch64-linux-gnu-strip
-export LD=aarch64-linux-gnu-ld
-
-
+CMD=`realpath $0`
+COMMON_DIR=`dirname $CMD`
+export PATH=${COMMON_DIR}/../cross-compilation/gcc-arm-10.3-2021.07-x86_64-aarch64-none-linux-gnu/bin:$PATH
+export CC=aarch64-none-linux-gnu-gcc
 
 cd dnsmasq-2.86/
 if [ ! -d install ];then 
 	mkdir install
 fi
 
+patch < ../001-makefile.patch
 
-make -j16
+make  
 make install

@@ -1,0 +1,11 @@
+--- Makefile	2024-07-21 02:45:55.679615379 -0700
++++ Makefile-bak	2024-07-21 02:45:42.123236308 -0700
+@@ -18,7 +18,7 @@
+ 
+ # Variables you may well want to override.
+ 
+-PREFIX        = /usr/local
++PREFIX        = ./install
+ BINDIR        = $(PREFIX)/sbin
+ MANDIR        = $(PREFIX)/share/man
+ LOCALEDIR     = $(PREFIX)/share/locale
