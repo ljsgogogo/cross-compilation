@@ -5,5 +5,4 @@
 3.编译alsa-lib
 
 4.编译alsa-ultis
-中间报错需修改makefile  --> make install
 
